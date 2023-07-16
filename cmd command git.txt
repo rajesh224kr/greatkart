@@ -1,0 +1,6 @@
+activate env git bash :- source env/Scripts/activate
+
+Create superuser git bash :- winpty python manage.py createsuperuser
+download sqlitestudio == for data visualiztion :- https://sqlitestudio.pl/ >> download> extract> paste to C/programefile folder
+
+
